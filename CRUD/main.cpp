@@ -3,7 +3,7 @@
 #include <fstream>
 using namespace std;
 
-const int maxrow = 10; // Max File or Records (easily change by changing the number of array)
+const int maxrow = 10; // Max File or Records (easily change by changing the maxrow number)
 
 string Name[maxrow] = {};
 string  ID[maxrow] = {};
